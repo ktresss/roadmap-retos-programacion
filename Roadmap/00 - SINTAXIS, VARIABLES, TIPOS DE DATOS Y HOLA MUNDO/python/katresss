@@ -1,0 +1,32 @@
+# https://www.python.org/
+
+# Esto es un comentario de un linea
+
+""""
+Esto es un comentario
+de varias
+lineas
+"""
+
+'''
+Esto tambien es en
+un comentario de 
+varias lineas
+'''
+
+my_variable = "Este es el valor de la variable"
+my_variable = "Este es el nuevo valor de la variable"
+
+MY_CONSTANT = "My constante"  # por convision
+
+my_int = 1
+my_float = 1.5
+my_bool = True
+my_bool = Fale
+my_string = "Mi cadema de texto"
+
+Print("!Hola, Pynthon!")
+Print(type(my_int))
+Print(type(my_float))
+Print(type(my_bool))
+Print(type(my_string))
